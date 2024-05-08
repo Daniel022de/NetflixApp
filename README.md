@@ -1,4 +1,4 @@
-# Aplicativo protótipo da Netflix
+# Aplicativo protótipo Netflix
 
 Este aplicativo foi desenvolvido com a finalidade de estudar alguns recursos importantes no desenvolvimento mobile.
 
